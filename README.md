@@ -31,7 +31,7 @@ To get this project up and running locally, you must already have ruby and rails
 
 - Github: [@visva-dev](https://github.com/visva-dev)
 - LinkedIn: [Visvaldas Rapalis](https://www.linkedin.com/in/visvaldas-rapalis/)
-- Gmail: <mailto:visva.rapalis@gmail.com>
+- Gmail: [visva.rapalis@gmail.com](mailto:visva.rapalis@gmail.com)
 
 ## 🤝 Contributing
 
